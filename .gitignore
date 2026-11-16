@@ -1,0 +1,14 @@
+bin/
+obj/
+artifacts/
+.idea/
+*.sln.iml
+.vs/
+*.user
+*.suo
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+.DS_Store
+Thumbs.db
